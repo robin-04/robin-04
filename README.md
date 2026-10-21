@@ -76,22 +76,6 @@ My next goal is to turn what I learn into practical projects, document my proces
 
 As I build, this section will feature my best work, including what each project does, the technologies used, and what I learned.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight"
-    alt="GitHub statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight"
-    alt="Most-used programming languages"
-  />
-</p>
-
 ## 🌱 My Mindset
 
 > Learn continuously. Build with purpose. Think critically. Make security part of the process.
