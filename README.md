@@ -23,6 +23,11 @@
 
 ---
 
+## 📫 How to Reach Me
+
+- 📧 **Email:** [robinbhatta2@gmail.com](mailto:robinbhatta2@gmail.com)
+- 💼 **GitHub:** Feel free to explore my repositories and follow my learning journey.
+
 ## 👨‍💻 About Me
 
 I'm a student at the beginning of my journey in technology, building my knowledge in software development and cybersecurity.
